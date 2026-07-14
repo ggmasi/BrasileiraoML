@@ -1,1 +1,2 @@
+# BRASILEIRÃO ML
 Trabalho desenvolvido com o intuito de construir um sistema capaz de prever o resultado de uma partida do Campeonato Brasileiro de Futebol (Série A) a partir do histórico estatístico das equipes envolvidas. A previsão é tratada como um problema de classificação supervisionada com três classes: vitória do mandante (C), empate (E) ou vitória do visitante (V)
